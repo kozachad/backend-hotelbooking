@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "P8Ht+Oe1xRYC0y/LWdHaUQ5YdFPW4RYMuffgxHzwuJs=",
+  "Source": "HotelBookingApiGateway",
+  "BasePath": "_content/HotelBookingApiGateway",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
