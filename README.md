@@ -107,6 +107,7 @@ erDiagram
 
 ## Project Presentation Video
 
+- **Video Link:** [https://www.youtube.com/watch?v=8ybwxz-35zM](https://www.youtube.com/watch?v=8ybwxz-35zM)
 
 ---
 
