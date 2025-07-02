@@ -4,6 +4,7 @@
 
 - **API Gateway:** [https://hotelservicegateway.azurewebsites.net](https://hotelservicegateway.azurewebsites.net)
 - **Main Hotel Booking Service:** [https://hotelbookingservice.azurewebsites.net](https://hotelbookingservice.azurewebsites.net)
+- - **Main Hotel Booking Service(Swagger):** [https://hotelbookingservice.azurewebsites.net/swagger](https://hotelbookingservice.azurewebsites.net/swagger)
 
 ## Project Overview
 
